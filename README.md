@@ -3,7 +3,7 @@
 <img src="https://github.com/Axlope/ball-launcher/blob/main/Media/eng_logo.png" alt="en_logo" width="38"/> - Experience dynamic physics interactions, touch-based controls, and an engaging game loop. Explore features like drag-and-release mechanics, continuous ball spawning, and device-friendly design for various resolutions.
 
 
-<img src="https://github.com/Axlope/ball-launcher/blob/main/Media/Ads%C4%B1z%20tasar%C4%B1m%20(2).png" alt="tr_logo" width="40"/> - Dinamik fizik etkileşimleri, dokunma tabanlı kontroller ve etkileyici bir oyun döngüsü deneyimi yaşayın. Sürükle ve bırak mekaniği, sürekli top oluşturma gibi özellikleri keşfedin ve çeşitli çözünürlükler için cihaz dostu tasarımıyla etkileşimde bulunun.
+<img src="https://github.com/Axlope/ball-launcher/blob/main/Media/tr_logo.png" alt="tr_logo" width="40"/> - Dinamik fizik etkileşimleri, dokunma tabanlı kontroller ve etkileyici bir oyun döngüsü deneyimi yaşayın. Sürükle ve bırak mekaniği, sürekli top oluşturma gibi özellikleri keşfedin ve çeşitli çözünürlükler için cihaz dostu tasarımıyla etkileşimde bulunun.
 
 ## <ins>Gameplay Video</ins>
 ![](https://github.com/Axlope/ball-launcher/blob/main/Media/ball-launcher-gameplay.gif)
@@ -15,7 +15,7 @@
 - Continuous game loop with seamless ball spawning
 - Device-friendly gameplay on various resolutions using Cinemachine
 
-## <ins>Temel Özellikler</ins> <img src="https://github.com/Axlope/ball-launcher/blob/main/Media/Ads%C4%B1z%20tasar%C4%B1m%20(2).png" alt="tr_logo" width="40"/>
+## <ins>Temel Özellikler</ins> <img src="https://github.com/Axlope/ball-launcher/blob/main/Media/tr_logo.png" alt="tr_logo" width="40"/>
 - Yerçekimine tepki veren dinamik top
 - Dokunmatik ekran girişi ve koordinat takibi
 - Sürükle ve bırak mekaniği ile fırlatma
