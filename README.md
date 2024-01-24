@@ -1,10 +1,8 @@
 # BALL LAUNCHER by Axlope
 
-<img src="https://github.com/Axlope/ball-launcher/blob/main/Media/eng_logo.png" alt="en_logo" width="30"/>
-Experience dynamic physics interactions, touch-based controls, and an engaging game loop. Explore features like drag-and-release mechanics, continuous ball spawning, and device-friendly design for various resolutions.
-
-<img src="https://github.com/Axlope/ball-launcher/blob/main/Media/tr_logo.png" alt="tr_logo" width="30"/>
-Dinamik fizik etkileşimleri, dokunma tabanlı kontroller ve etkileyici bir oyun döngüsü deneyimi yaşayın. Sürükle ve bırak mekaniği, sürekli top oluşturma gibi özellikleri keşfedin ve çeşitli çözünürlükler için cihaz dostu tasarımıyla etkileşimde bulunun.
+<img src="https://github.com/Axlope/ball-launcher/blob/main/Media/eng_logo.png" alt="en_logo" width="30"/> Experience dynamic physics interactions, touch-based controls, and an engaging game loop. Explore features like drag-and-release mechanics, continuous ball spawning, and device-friendly design for various resolutions.
+<br />
+<img src="https://github.com/Axlope/ball-launcher/blob/main/Media/tr_logo.png" alt="tr_logo" width="30"/> Dinamik fizik etkileşimleri, dokunma tabanlı kontroller ve etkileyici bir oyun döngüsü deneyimi yaşayın. Sürükle ve bırak mekaniği, sürekli top oluşturma gibi özellikleri keşfedin ve çeşitli çözünürlükler için cihaz dostu tasarımıyla etkileşimde bulunun.
 
 ## Gameplay Video
 ![](https://github.com/Axlope/ball-launcher/blob/main/Media/ball-launcher-gameplay.gif)
