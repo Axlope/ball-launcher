@@ -1,14 +1,11 @@
 # BALL LAUNCHER by Axlope
 
+Experience dynamic physics interactions, touch-based controls, and an engaging game loop. Explore features like drag-and-release mechanics, continuous ball spawning, and device-friendly design for various resolutions.
+
 ## Gameplay Video
 ![](https://github.com/Axlope/ball-launcher/blob/main/Media/ball-launcher-gameplay.gif)
 
-## Editor View
-![](https://github.com/Axlope/ball-launcher/blob/main/Media/Simulator.png)
-
-# SUMMARY
-
-Experience dynamic physics interactions, touch-based controls, and an engaging game loop. Explore features like drag-and-release mechanics, continuous ball spawning, and device-friendly design for various resolutions.
+![uk_logo](https://github.com/Axlope/ball-launcher/assets/109798774/f255727b-e7e8-4fe1-bba0-ea2a558340c7) =20x20
 
 ## Key Features:
 - Dynamic ball responding to gravity
@@ -16,6 +13,9 @@ Experience dynamic physics interactions, touch-based controls, and an engaging g
 - Drag-and-release mechanics for launching
 - Continuous game loop with seamless ball spawning
 - Device-friendly gameplay on various resolutions using Cinemachine
+
+## Editor View
+![](https://github.com/Axlope/ball-launcher/blob/main/Media/Editor.png)
 
 # SCRIPTS
 
