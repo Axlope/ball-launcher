@@ -8,14 +8,14 @@
 ## Gameplay Video
 ![](https://github.com/Axlope/ball-launcher/blob/main/Media/ball-launcher-gameplay.gif)
 
-## Key Features <img src="https://github.com/Axlope/ball-launcher/blob/main/Media/eng_logo.png" alt="en_logo" width="30"/>
+## Key Features <img src="https://github.com/Axlope/ball-launcher/blob/main/Media/eng_logo.png" alt="en_logo" width="40"/>
 - Dynamic ball responding to gravity
 - Touchscreen input with coordinate tracking
 - Drag-and-release mechanics for launching
 - Continuous game loop with seamless ball spawning
 - Device-friendly gameplay on various resolutions using Cinemachine
 
-## Temel Özellikler <img src="https://github.com/Axlope/ball-launcher/blob/main/Media/tr_logo.png" alt="tr_logo" width="30"/>
+## Temel Özellikler <img src="https://github.com/Axlope/ball-launcher/blob/main/Media/Ads%C4%B1z%20tasar%C4%B1m%20(2).png" alt="tr_logo" width="40"/>
 - Yerçekimine tepki veren dinamik top
 - Dokunmatik ekran girişi ve koordinat takibi
 - Sürükle ve bırak mekaniği ile fırlatma
