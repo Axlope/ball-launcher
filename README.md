@@ -15,8 +15,8 @@ Experience dynamic physics interactions, touch-based controls, and an engaging g
 - Device-friendly gameplay on various resolutions using Cinemachine
 
 ## Editor View
-![](uk_logo.png =20x20)
-![](tr_logo.png | width=100)
+![en_logo](uk_logo.png =20x20)
+![tr_logo](tr_logo.png | width=100)
 
 # SCRIPTS
 
