@@ -15,7 +15,7 @@
 - Continuous game loop with seamless ball spawning
 - Device-friendly gameplay on various resolutions using Cinemachine
 
-## <ins>Temel Özellikler</ins> <img src="https://github.com/Axlope/ball-launcher/blob/main/Media/Ads%C4%B1z%20tasar%C4%B1m%20(2).png" alt="tr_logo" width="40"/>
+## <img src="https://github.com/Axlope/ball-launcher/blob/main/Media/Ads%C4%B1z%20tasar%C4%B1m%20(2).png" alt="tr_logo" width="40"/> <ins>Temel Özellikler</ins> 
 - Yerçekimine tepki veren dinamik top
 - Dokunmatik ekran girişi ve koordinat takibi
 - Sürükle ve bırak mekaniği ile fırlatma
