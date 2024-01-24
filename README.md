@@ -5,7 +5,7 @@ Experience dynamic physics interactions, touch-based controls, and an engaging g
 ## Gameplay Video
 ![](https://github.com/Axlope/ball-launcher/blob/main/Media/ball-launcher-gameplay.gif)
 
-![uk_logo](https://github.com/Axlope/ball-launcher/assets/109798774/f255727b-e7e8-4fe1-bba0-ea2a558340c7) =20x20
+
 
 ## Key Features:
 - Dynamic ball responding to gravity
@@ -15,7 +15,8 @@ Experience dynamic physics interactions, touch-based controls, and an engaging g
 - Device-friendly gameplay on various resolutions using Cinemachine
 
 ## Editor View
-![](https://github.com/Axlope/ball-launcher/blob/main/Media/Editor.png)
+![](uk_logo.png =20x20)
+![](tr_logo.png | width=100)
 
 # SCRIPTS
 
