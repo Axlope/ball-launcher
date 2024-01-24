@@ -16,8 +16,8 @@ Experience dynamic physics interactions, touch-based controls, and an engaging g
 
 ## Editor View
 
-<img src="https://github.com/Axlope/ball-launcher/blob/main/Media/tr_logo.png" alt="en_logo" width="100"/>
-<img src="https://github.com/Axlope/ball-launcher/blob/main/Media/uk_logo.png" alt="tr_logo" width="100"/>
+<img src="https://github.com/Axlope/ball-launcher/blob/main/Media/eng_logo.png" alt="en_logo" width="25"/>
+<img src="https://github.com/Axlope/ball-launcher/blob/main/Media/tr_logo.png" alt="tr_logo" width="25"/>
 
 # SCRIPTS
 
