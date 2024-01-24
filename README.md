@@ -22,7 +22,7 @@
 - Aralıksız oyun döngüsü ve kesintisiz top üretimi
 - Cinemachine kullanarak çeşitli çözünürlüklerde cihaz dostu oyun deneyimi
 
-## <ins>Editor View</ins>
+## <ins>Unity Editor View</ins>
 ![](https://github.com/Axlope/ball-launcher/blob/main/Media/Editor.png)
 
 # <ins>SCRIPTS</ins>
