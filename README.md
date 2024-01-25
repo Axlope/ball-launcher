@@ -6,7 +6,7 @@
 <img src="https://github.com/Axlope/ball-launcher/blob/main/Media/tr_logo.png" alt="tr_logo" width="40"/> - Dinamik fizik etkileşimleri, dokunma tabanlı kontroller ve etkileyici bir oyun döngüsü deneyimi yaşayın. Sürükle ve bırak mekaniği, sürekli top oluşturma gibi özellikleri keşfedin ve çeşitli çözünürlükler için cihaz dostu tasarımıyla etkileşimde bulunun.
 
 ## <ins>Gameplay Video</ins>
-![](https://github.com/Axlope/ball-launcher/blob/main/Media/ball-launcher-gameplay.gif)
+![](https://github.com/Axlope/ball-launcher/blob/main/Media/ball-launcher-gameplay1.gif)
 
 ## <ins>Key Features</ins> <img src="https://github.com/Axlope/ball-launcher/blob/main/Media/eng_logo.png" alt="en_logo" width="38"/>
 - Dynamic ball responding to gravity
@@ -23,7 +23,7 @@
 - Cinemachine kullanarak çeşitli çözünürlüklerde cihaz dostu oyun deneyimi
 
 ## <ins>Unity Editor View</ins>
-![](https://github.com/Axlope/ball-launcher/blob/main/Media/Editor.png)
+![](https://github.com/Axlope/ball-launcher/blob/main/Media/unity-editor.png)
 
 # <ins>SCRIPTS</ins>
 
